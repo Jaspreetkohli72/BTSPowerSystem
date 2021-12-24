@@ -137,6 +137,7 @@ a:focus {
 	color: #fd5f16;
 	text-decoration: none;
 }
+
 body {
 	background: #fff none repeat scroll 0 0;
 	color: #777;
@@ -482,10 +483,10 @@ div#preloader {
 	margin: 0px 15px;
 }
 .main-menu ul.navbar-nav li a:hover {
-	color: #fd5f16;
+	color: white;
 }
 .main-menu ul.navbar-nav > li > a::before {
-	background: #fd5f16;
+	background: white;
 	content: "";
 	height: 2px;
 	position: absolute;
@@ -503,7 +504,7 @@ div#preloader {
 }
 .main-menu ul.navbar-nav li.active a {
 	background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-	color: #fd5f16;
+	color: white;
 	position: relative;
 	z-index: 9999999;
 }
