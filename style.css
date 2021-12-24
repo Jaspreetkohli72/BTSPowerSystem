@@ -2063,10 +2063,10 @@ div#preloader {
 	position: absolute;
 	content: "";
 	width: 5px;
-	height: 80px;
+	height: 36px;
 	background: #fd5f16;
 	left: 0;
-	top: 0px;
+	top: -5px;
 }
 .client-head h3 {
 	color: #fff;
